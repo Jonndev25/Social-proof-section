@@ -17,6 +17,7 @@
 }
 
 body {
+  max-width: 1440px;
   background-color: var(--White);
   min-height: 100vh;
   min-height: 100dvh;
